@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Marranito oloroso',
+            'Camaron xxx',
             {
                 font: font,
                 size: 0.5,
