@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Camaron xxx',
+            'Rafael Serna',
             {
                 font: font,
                 size: 0.5,
