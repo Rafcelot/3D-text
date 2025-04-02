@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Pato Moncada',
+            'Rafael Serna',
             {
                 font: font,
                 size: 0.5,
